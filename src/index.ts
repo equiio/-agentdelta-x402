@@ -7,7 +7,7 @@ import {
   declareDiscoveryExtension,
 } from "@x402/extensions/bazaar";
 
-const PAY_TO = "0x61811D96F79c0719271DACD8A5483ac878EcD67C" as \`0x\${string}\`;
+const PAY_TO = "0x61811D96F79c0719271DACD8A5483ac878EcD67C" as `0x${string}`;
 const PRICE = "$0.001";
 const NETWORK = "eip155:84532";
 const FACILITATOR_URL = "https://x402.org/facilitator";
